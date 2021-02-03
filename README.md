@@ -1,2 +1,2 @@
 # Hello-World
-new repositionery
+new repository
